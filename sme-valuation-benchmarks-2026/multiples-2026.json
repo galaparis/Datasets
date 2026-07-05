@@ -1,0 +1,1334 @@
+{
+  "name": "ValorPME — EV/EBITDA multiples by sector and country, 2026",
+  "description": "EV/EBITDA valuation multiples and EBITDA margins for 11 sectors across 12 countries, calibrated on Argos Index, Avolta, Epsilon PME/mid-market transactions 2023-2026.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "ValorPME / ValorSME — https://valor-pme.com",
+  "temporalCoverage": "2026",
+  "generatedAt": "2026-06-24",
+  "unit": {
+    "ev_ebitda": "multiple",
+    "ebitda_margin": "percent"
+  },
+  "rows": [
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "services-b2b",
+      "sectorLabel": "Services B2B / Conseil",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "software-saas",
+      "sectorLabel": "Software / SaaS",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 8,
+      "evEbitdaMax": 15,
+      "ebitdaMarginMinPct": 20,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "tech",
+      "sectorLabel": "Technologie (hardware)",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 12,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "industrie",
+      "sectorLabel": "Industrie / Manufacturier",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 7,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 15
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "construction",
+      "sectorLabel": "Construction / BTP",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "logistique",
+      "sectorLabel": "Logistique & transport",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 8,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 18
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "distribution",
+      "sectorLabel": "Distribution / Commerce",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 5,
+      "ebitdaMarginMaxPct": 10
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "sante",
+      "sectorLabel": "Santé / Pharma",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 7,
+      "evEbitdaMax": 10,
+      "ebitdaMarginMinPct": 15,
+      "ebitdaMarginMaxPct": 25
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "agroalimentaire",
+      "sectorLabel": "Agroalimentaire",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 4,
+      "evEbitdaMax": 6,
+      "ebitdaMarginMinPct": 8,
+      "ebitdaMarginMaxPct": 12
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "hotellerie-restauration",
+      "sectorLabel": "Hôtellerie & restauration",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 5,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 10,
+      "ebitdaMarginMaxPct": 22
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "FR",
+      "countryName": "France",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "GB",
+      "countryName": "United Kingdom",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "US",
+      "countryName": "United States",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "AU",
+      "countryName": "Australia",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "SG",
+      "countryName": "Singapore",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "IN",
+      "countryName": "India",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "NZ",
+      "countryName": "New Zealand",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "IE",
+      "countryName": "Ireland",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "CA",
+      "countryName": "Canada",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "ZA",
+      "countryName": "South Africa",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "DE",
+      "countryName": "Germany",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    },
+    {
+      "sector": "telecom",
+      "sectorLabel": "Télécommunications",
+      "country": "ES",
+      "countryName": "Spain",
+      "evEbitdaMin": 6,
+      "evEbitdaMax": 9,
+      "ebitdaMarginMinPct": 25,
+      "ebitdaMarginMaxPct": 40
+    }
+  ]
+}
